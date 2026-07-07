@@ -1,6 +1,6 @@
 # Hi, I'm Kartik Kachwahe 👋
 
-Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
+Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 
 ## About Me
 
