@@ -6,6 +6,7 @@ Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 
 - Python
 - SQL
+- Excel
 - Power BI
 - Machine Learning
 - Data Analytics
