@@ -10,7 +10,7 @@ Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 - Power BI
 - Machine Learning
 - Data Analytics
-- Statistics
+- Statistics 
 - Business Intelligence
 
 ## Featured Projects
