@@ -8,7 +8,7 @@ Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 - SQL
 - Excel 
 - Power BI 
-- Machine Learning
+- Machine Learning 
 - Data Analytics
 - Statistics 
 - Business Intelligence
