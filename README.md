@@ -15,7 +15,7 @@ Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 
 ## Featured Projects
 
-### ❤️ Heart Disease Prediction Model
+### ❤️ Heart Disease Prediction Model 
 Machine Learning project for healthcare prediction.
 
 🔗 Project:
