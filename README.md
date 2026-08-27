@@ -1,4 +1,4 @@
-# Hi, I'm Kartik Kachwahe 👋
+# Hi, I'm Kartik Kachwahe
 
 Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 
