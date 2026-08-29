@@ -4,7 +4,7 @@ Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 
 ## About Me
 
-- Python
+- Python 
 - SQL
 - Excel 
 - Power BI 
